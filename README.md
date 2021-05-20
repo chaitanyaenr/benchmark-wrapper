@@ -239,6 +239,8 @@ Note: If your PR requires a PR in benchmark-operator to be merged, you can ask C
 checkout that PR by adding a `Depends-On: <benchmark-operator_pr_number>` to the end of
 your snafu commit message.
 
+Conversation Starter PR!
+
 ## CodeStyling and Linting
 
 Touchstone uses [pre-commit](https://pre-commit.com) framework to maintain the code linting and python code styling.
